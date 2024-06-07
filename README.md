@@ -48,9 +48,8 @@ Para visualizar o projeto, apenas utilize o comando a seguir:
     ./emulator
 ```
 
-# O QUE FAZER
+# FUNCIONALIDADES DE CADA REGISTRADOR
 
-Aqui está a lista de a fazeres do trabalho.
 
 **REGISTRADOR 0**
 
@@ -72,15 +71,15 @@ Aqui está a lista de a fazeres do trabalho.
 **REGISTRADOR 3**
 
 - [X] Retornar nível da bateria
-- [X] Definir nivel da bateria (opcional)
+- [X] Definir nivel da bateria 
 - [X] Retornar nível bateria
-- [X] Mudar temperatura (opcional) - *implementada - verificar implementação do negativo*
+- [X] Mudar temperatura 
 - [X] Verificar quantidade de repetições
 - [X] Fazer o Makefile funcionar
 
 **REGISTRADOR 4-15**
 
-- [X] Mudar mensagem do display - *implementado - implementando com mais de 24 caracteres*
+- [X] Mudar mensagem do display 
 
 **AUXILIARES**
 
