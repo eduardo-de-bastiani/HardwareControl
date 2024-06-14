@@ -68,7 +68,7 @@ const char* convertedGetDisplayOn(){
     if (displayOn == 1) {
         return "Display On";
     }
-    return "Display Of";
+    return "Display Off";
 }
 void setDisplayOn(int v) {
     if(v > 1 || v < 0) return;
